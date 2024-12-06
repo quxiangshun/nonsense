@@ -4,8 +4,11 @@ layout: home
 
 hero:
   name: "胡说八道"
-  text: "胡说八道 如有雷同 不胜荣幸"
-  tagline: My great project tagline
+  text: ""
+  tagline: 胡说八道 如有雷同 不胜荣幸
+  image: 
+    src: logo.png
+    alt: 背景图片
   actions:
     - theme: brand
       text: Markdown Examples
