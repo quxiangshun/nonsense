@@ -11,13 +11,14 @@ export default defineConfig({
     logo: 'logo.png',
     outlineTitle: "文章目录",
     outline: [2, 6], // 索引的标题层级
+
     aside: "left", // 设置右部侧边栏左边显示
     nav: [
       { text: '栾媛', link: '/' },
       {
         text: '胡说',
         items: [
-          { text: '编程思想', link: '/talk/enflame/efdm/index' },
+          { text: '编程思想', link: '/talk/elegant-programming' },
           { text: 'Java那点事', link: '/talk/enflame/api-examples' },
           { text: 'Vue3', link: '/talk/enflame/api-examples' },
         ]
